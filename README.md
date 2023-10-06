@@ -1,7 +1,7 @@
 # 💫 About Me:
+
 🔭 I’m a IT Engineer<br>🌱 I’m currently learning about devops skills<br>💬 looking for new technologies in IT filed <br>⚡ Fun fact: i like make new friends
 
-<br>
 <br>
 <br>
 
