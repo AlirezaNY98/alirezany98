@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-👨‍💻 I’m a IT Expert<br><br>🌱 I’m currently learning about devops skills<br><br>💬 looking for new technologies in IT filed <br>
+👨‍💻 I’m an IT Expert<br><br>🌱 Currently learning about devops skills<br><br>💬 Looking for new technologies in IT filed <br>
 
 <br>
 
