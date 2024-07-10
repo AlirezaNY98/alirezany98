@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-👨‍💻 I’m a IT Engineer<br><br>🌱 I’m currently learning about devops skills<br><br>💬 looking for new technologies in IT filed <br><br>⚡ Fun fact: i like make new friends
+👨‍💻 I’m a IT Expert<br><br>🌱 I’m currently learning about devops skills<br><br>💬 looking for new technologies in IT filed <br>
 
 <br>
 
@@ -10,7 +10,7 @@
 <br>
 
 ## 🌐 Socials:
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22693559) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alirezany98) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@alirezany98)(https://pinterest.com/alirezany98)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22693559) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alirezany98) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@alirezany98)
 
 <br>
 <br>
