@@ -9,12 +9,6 @@
 
 <br>
 
-## 🌐 Socials:
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22693559) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alirezany98) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@alirezany98)
-
-<br>
-<br>
-
 ## 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=alirezany98&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=alirezany98&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
